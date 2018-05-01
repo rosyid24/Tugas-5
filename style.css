@@ -1,0 +1,29 @@
+h1{
+	font-family: calibri;
+}
+body{
+	background-color: #a67c00;
+	font-family: calibri;
+}
+.container{
+	border-radius: 9px;
+	background-color: #bf9b30;
+}
+.row{
+	border-radius: 5px;
+	background-color: #ffbf00;
+}
+table{
+	border-color: orange;
+	background-color: #ffcf40;
+	border-radius: 5px;
+}
+td{
+	border-color: grey;
+	border-radius: 5px;	
+}
+.button{
+	border-radius: 5px;
+	background-color: #ffdc73;
+	border-color: #a67c00;
+}
